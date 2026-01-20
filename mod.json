@@ -1,0 +1,34 @@
+{
+	"caption": {
+		"en_US": "Video menu for the launcher (ENG-RU)",
+		"ru_RU": "Video menu for the launcher (ENG-RU)"
+	},
+	"description": {
+		"full": {
+			"Cn_Simp": "",
+			"en_US": "description_en.txt",
+			"ru_RU": "description_ru.txt"
+		},
+		"short": {
+                        "Cn_Simp": "",
+			"en_US": "",
+			"ru_RU": ""
+		}
+	},
+	"author": "Myoffice91,Suft,Daemon_n",
+	"homepage": "http://wforum.heroes35.net/showthread.php?tid=6372&pid=129165#pid129165",
+	"icon": {
+		"file": "icon.ico",
+		"index": 0
+	},
+	"mod_version": "1.1",
+	"priority": 3,
+	"compatibility": {
+		"class": "all",
+		"entries": {}
+	},
+	"platform": "era",
+	"info_version": "1.0",
+	"plugins": {},
+	"category": "interface"
+}

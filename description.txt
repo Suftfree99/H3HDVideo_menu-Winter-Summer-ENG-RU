@@ -1,0 +1,15 @@
+Plugin: Random video in main menu
+Version: 1.0
+Author: myoffice91
+http://wforum.heroes35.net/showthread.php?tid=6573
+
+Peculiarity:
+1) Less weight and good video quality.
+2) In the map-> press the main menu - a random video appears
+3) The plugin reads the "Random videos of the main menu.vid" archive, there is a file name array counter. That is, there is no need to write file names in the text box.
+4) When you press the "new game", "load game" and other buttons, even the "map script" window does not return to the beginning of the video now. In addition to three campaigns.
+
+
+;1.1
+;27.05.2022
+;1)Fixed a critical bug: 222 MB memory allocation due to haste. Accidentally put hooks "in the main menu", so the case is wrong.
