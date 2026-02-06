@@ -6,8 +6,8 @@
 	"description": {
 		"full": {
 			"Cn_Simp": "",
-			"en_US": "description_en.txt",
-			"ru_RU": "description_ru.txt"
+			"en_US": "description.txt",
+			"ru_RU": "description_rus.txt"
 		},
 		"short": {
                         "Cn_Simp": "",
