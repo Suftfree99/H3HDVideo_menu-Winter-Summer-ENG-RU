@@ -1,5 +1,6 @@
 Plugin: Random video in main menu
 Version: 1.0
+Disable the Random wallpaper mod.
 Author: [url=http://wforum.heroes35.net/member.php?action=profile&uid=3473]myoffice91[/url]
 http://wforum.heroes35.net/showthread.php?tid=6573
 
